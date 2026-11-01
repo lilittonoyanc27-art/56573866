@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra Fútbol: Español - Հայերեն",
+  "description": "Ինտերակտիվ ֆուտբոլային ուսուցողական խաղեր՝ իսպաներեն և հայերեն։ Pasapalabra Էլ Ռոսկո, 27 հանելուկներ և 20 մաթեմատիկական խնդիրներ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
